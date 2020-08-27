@@ -15,6 +15,6 @@ The Collective for Open Data Distribution-Keralam (CODD-K) is a group of technol
 Covid19Kerala.info is a citizen science effort from CODD-K to overcome the limitations of unstructured data released by the Govt. and to generate open and reusable datasets for analysis and visualization. This specific effort originated during the early days of COVID-19 in India, specifically during the third week of March 2020. This started as a small group of enthusiastic volunteers, and at present, over 60 volunteers from various domains are currently part of this effort. Covid19Kerala.info is one of the first COVID-19 data-visualization efforts on the outbreak of the pandemic in Kerala. It is also the first bilingual dashboard to explain the outbreak’s progression, updated daily.
 
 Watch our lectures here.
-1. [Learn R Programming](https://srkc95.github.io/coddk-videos/courses/learn-r-programming/playlist/)
-2. [Future Of Knowledge](https://srkc95.github.io/coddk-videos/courses/future-of-knowledge/playlist/)
-3. [Learn Artificial Intelligence](https://srkc95.github.io/coddk-videos/courses/learn-artificial-intelligence/playlist/)
+1. [Learn R Programming](/courses/learn-r-programming/playlist/)
+2. [Future Of Knowledge](/courses/future-of-knowledge/playlist/)
+3. [Learn Artificial Intelligence](/courses/learn-artificial-intelligence/playlist/)
