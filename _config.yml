@@ -72,7 +72,7 @@ nav_sort: case_insensitive # default, equivalent to nil
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2020 by CODD-K. Distributed by an <a href=\"/blob/gh-pages/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2020 by CODD-K. Distributed by an <a href=\"https://github.com/CODD-K/videos/blob/master/LICENSE.txt\">MIT license.</a><br/> This project is <a href=\"https://github.com/CODD-K\" target=\"_blank\">maintained</a> and <a href=\"https://github.com/CODD-K/videos\" target=\"_blank\">hosted</a> in <a href=\"https://github.com/\" target=\"_blank\">GitHub</a>. <br/>Built with <a href=\"https://jekyllrb.com/\" target=\"_blank\">Jekyll</a> using <a href=\"https://github.com/pmarsceill/just-the-docs\" target=\"_blank\">Just The Docs</a> theme"
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
