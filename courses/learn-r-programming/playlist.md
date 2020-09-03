@@ -44,3 +44,6 @@ nav_order: 1
 
 ### Lecture 10
 {% include youtube.html id='iGwRUon4uAY' %}
+
+### Lecture 11
+{% include youtube.html id='7P9RVuD4ELs' %}
