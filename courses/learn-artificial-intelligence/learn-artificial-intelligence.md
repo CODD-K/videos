@@ -8,7 +8,7 @@ permalink: /courses/learn-artificial-intelligence
 # Learn Artificial Intelligence
 {: .fs-9 }
 
-by [Dennis Robert](https://www.linkedin.com/in/dr-dennis-robert-0924ba38)
+by [Dr. Dennis Robert](https://www.linkedin.com/in/dr-dennis-robert-0924ba38)
 {: .fs-6 .fw-300 }
 
 ---
