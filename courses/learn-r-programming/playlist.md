@@ -43,7 +43,7 @@ nav_order: 1
 {% include youtube.html id='dRXFvEOcup4' %}
 
 ### Lecture 10
-{% include youtube.html id='iGwRUon4uAY' %}
+{% include youtube.html id='iGgtGqxwEjc' %}
 
 ### Lecture 11
 {% include youtube.html id='7P9RVuD4ELs' %}
