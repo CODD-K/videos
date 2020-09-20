@@ -25,3 +25,12 @@ nav_order: 1
 
 ### Lecture 04
 {% include youtube.html id='lWJZ0s6Cvx4' %}
+
+### Lecture 05
+{% include youtube.html id='62fQnjYhe64' %}
+
+### Lecture 06
+{% include youtube.html id='3QH8Nwjm21Q' %}
+
+### Lecture 07
+{% include youtube.html id='lfcX1mLOK5E' %}
